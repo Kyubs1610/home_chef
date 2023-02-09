@@ -1,8 +1,8 @@
 # HomeChef mobile App
 
-On this team project we made a small app
-On this app : 
-- The customers who won’t or can’t cook their own food can order and pick-up the food to the chef place
+On this team project we made a small app where :
+
+- The customers can order and pick-up the food to the chef place.
 - The chefs can prepare food don't need a restaurant and can cook from home.
 
 I worked on the frontend and the design using figma, canva, CSS, Javascript & React
